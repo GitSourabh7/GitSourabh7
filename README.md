@@ -2,6 +2,8 @@
 ---
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=react,js,css,html,svg,mongodb,git,github,linux,vscode,webpack,stackoverflow,codepen,tailwind,bootstrap,regex,md)](https://skillicons.dev)
+### Things I worked in Past
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,wordpress,ps)](https://skillicons.dev)
 ---
 <!-- ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true) -->
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=GitSourabh7)](https://github.com/GitSourabh7/github-contribution-stats/)
