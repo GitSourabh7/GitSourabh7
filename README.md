@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hui+Hui+beautiful people;This+is+Sourabh+Nerlekar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&center=true&multiline=true&width=455&lines=Hui+Hui%2C+beautiful+people;This+is+%3CSourabh_Nerlekar%3E+here...)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSourabh7&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
