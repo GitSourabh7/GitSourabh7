@@ -1,5 +1,5 @@
 ## Hoooiiiii👋 I'm Sourabh
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSourabh7&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GitSourabh7/GitSourabh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
