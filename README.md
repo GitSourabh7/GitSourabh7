@@ -6,8 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,css,html,svg,mongodb,git,github,linux,vscode,webpack,stackoverflow,codepen,tailwind,bootstrap,regex,md,discord,figma,linkedin)](https://skillicons.dev)
 ### Used in past
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,wordpress,ps)](https://skillicons.dev)
----
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ```javascript
 // tools_I_use organized
