@@ -1,4 +1,4 @@
-## Hoooiiiii👋 I'm Sourabh
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hui+Hui+beautiful people;This+is+Sourabh+Nerlekar)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSourabh7&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
