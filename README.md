@@ -34,5 +34,11 @@ class About extends Me {
 </div> -->
 ---
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=GitSourabh7)](https://github.com/GitSourabh7/github-contribution-stats/) -->
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true)
+<!-- ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSourabh7&langs_count=8)](https://github.com/GitSourabh7/github-readme-stats)
+ -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitSourabh7&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitSourabh7&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GitSourabh7&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitSourabh7&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GitSourabh7&theme=default&utcOffset=6)
