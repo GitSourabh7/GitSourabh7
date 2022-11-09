@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hui+Hui%F0%9F%91%8B%2C+beautiful%F0%9F%91%8Cpeople%F0%9F%A4%BC;This+is%F0%9F%91%89%3CSourabh_Nerlekar%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3E+here%F0%9F%A4%98...)](https://git.io/typing-svg)
 ---
-### Things I code with
+### Currently using
 [![My Skills](https://skillicons.dev/icons?i=react,js,css,html,svg,mongodb,git,github,linux,vscode,webpack,stackoverflow,codepen,tailwind,bootstrap,regex,md,discord,figma,linkedin)](https://skillicons.dev)
-### Things I worked in Past
+### Used in past
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,wordpress,ps)](https://skillicons.dev)
 ---
 <!-- ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitSourabh7&theme=default&show_icons=true) -->
