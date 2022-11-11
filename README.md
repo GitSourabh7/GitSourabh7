@@ -15,7 +15,7 @@ class About extends Me {
     "OtherLanguages" : { "HTML", "CSS", "Json", "Markdown" },
     "Database" : { "MongoDB" },
     "Editors" : { "Vscode", "Replit", "Vim"},
-    "Platforms" : { "GNU/Linux", "Windows 7/8/10/11" },
+    "Platforms" : { "GNU/Linux", "Windows 10/11" },
     "OtherTools" : { "Git", "GitHub" "Figma", "Photoshop"}
   };
 }
