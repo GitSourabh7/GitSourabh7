@@ -7,19 +7,6 @@
 ### Used in past
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,wordpress,ps)](https://skillicons.dev)
 
-```javascript
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Javascript", "C++", "C" },
-    "OtherLanguages" : { "HTML", "CSS", "Json", "Markdown" },
-    "Database" : { "MongoDB" },
-    "Editors" : { "Vscode", "Replit", "Vim"},
-    "Platforms" : { "GNU/Linux", "Windows 10/11" },
-    "OtherTools" : { "Git", "GitHub" "Figma", "Photoshop"}
-  };
-}
-```
 <!-- <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
