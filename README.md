@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hui+Hui%F0%9F%91%8B%2C+beautiful%F0%9F%91%8Cpeople%F0%9F%A4%BC;This+is%F0%9F%91%89%3CSourabh_Nerlekar%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3E+here%F0%9F%A4%98...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello%F0%9F%91%8B%2C+beautiful%F0%9F%91%8Cpeople%F0%9F%A4%BC;This+is%F0%9F%91%89%3CSourabh_Nerlekar%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3E+here%F0%9F%A4%98...)](https://git.io/typing-svg)
 - 👉 I am a Fullstack developer
 - 👽 I like to do creative task everyday.
 
